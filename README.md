@@ -9,7 +9,10 @@ Usage:    "python SudokuMain.py [-h] [-s] --board BOARD"
           -s: Flag for whether or not to solve, include to solve, omit if you just want to play
           -Board: name of text file containing beginning board state (omit file extension)
           
-For example: to play board1, simply type "python SudokuMain.py --board board1"
-             to solve and see solution to board 1, type "python SudokuMain.py -s --board board1"
+To play board1, simply type :
+- "python SudokuMain.py --board board1"
+
+To solve and see solution to board 1, type:
+- "python SudokuMain.py -s --board board1"
 
 Special thanks to http://newcoder.io/gui/part-1/ for lots of help on making GUI. 
